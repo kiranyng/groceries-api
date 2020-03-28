@@ -1,0 +1,20 @@
+{
+   "tomato": {
+      "name": "Tomato",
+      "icon": "icons/tomato.png",
+      "estPrice": "20",
+      "unit": "kg"
+   },
+   "potato": {
+      "name": "Potato",
+      "icon": "icons/potato.png",
+      "estPrice": "10",
+      "unit": "kg"
+   },
+   "onions": {
+      "name": "onions",
+      "icon": "icons/onion.png",
+      "estPrice": "40",
+      "unit": "kg"
+   }
+}
